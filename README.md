@@ -4,6 +4,10 @@
 
 Yazi Files integrates Yazi, Helix, Zellij, and Nushell to create an efficient terminal file explorer experience.
 
+## Screenshot
+
+![image](https://github.com/luccahuguet/yazi/assets/27565287/9abd43b5-179c-4bc9-92b5-da7e63dfa120)
+
 ### Key Features
 - **Yazi**: A terminal file explorer that runs in a dedicated pane (20% width) within Zellij.
 - **File Opening**: Files selected in Yazi open in Helix within new panes.
