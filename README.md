@@ -10,7 +10,7 @@ Yazi Files integrates Yazi, Helix, Zellij, and Nushell to create an efficient te
 
 
 ### Usage
-- Files selected in Yazi open in Helix within new zellij pane.
+- Files selected in Yazi open in Helix within a new zellij pane.
 - Ratio is set to [0, 4, 0], so 0/4 width for parent, 4/4 width for current, 0/4 width for preview
 - This ratio was chosen because in my setup yazi only has 20% of the total width
 
