@@ -9,12 +9,11 @@ Yazi Files integrates Yazi, Helix, Zellij, and Nushell to create an efficient te
 ![image](https://github.com/luccahuguet/yazi/assets/27565287/18d82836-742c-4318-87b2-b99ffdb13a96)
 
 
-### Key Features
-- **Yazi**: A terminal file explorer that runs in a dedicated pane (20% width) within Zellij.
-- **File Opening**: Files selected in Yazi open in Helix within new panes.
-- **Layout**: The layout ensures optimal space usage, with Yazi occupying 20% of the terminal width and other panes stacking as needed.
-- **Environment Management**: Nushell ensures that Helix operates with the correct environment variables.
+### Usage
+- Files selected in Yazi open in Helix within new zellij pane.
+- Ratio is set to [0, 4, 0], so 0/4 width for parent, 4/4 width for current, 0/4 width for preview
+- This ratio was chosen because in my setup yazi only has 20% of the total width
 
-## Usage Scenario
+## More info
 
-Open a new Zellij tab, where Yazi runs in a small pane. Navigate through files using Yazi and press `Enter` to open files in Helix, all within the same terminal tab, enhancing productivity and workflow.
+Check out the complete setup at my [zellij files repo](https://github.com/luccahuguet/zellij-files)
