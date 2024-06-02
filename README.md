@@ -6,7 +6,8 @@ Yazi Files integrates Yazi, Helix, Zellij, and Nushell to create an efficient te
 
 ## Screenshot
 
-![image](https://github.com/luccahuguet/yazi-files/assets/27565287/7ac59f94-4652-414b-b855-38f720094aa2)
+![image](https://github.com/luccahuguet/yazi-files/assets/27565287/557eecbf-6eeb-48f9-8de4-252f78bda4fd)
+
 
 ### Usage
 - Files selected in Yazi open in Helix within new zellij pane.
